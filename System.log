@@ -1,0 +1,14 @@
+2025/08/30 11:17:22 Server running on http://localhost:8080
+2025/08/30 11:17:29 Raw JSON request: {"id":1,"name":"Fajrin","email":"fajrin@example.com","job_position":"Software engineer","salaries":2625,"currency":"NZD","payroll":"2 week"}
+2025/08/30 11:17:29 Received Worker: {ID:1 Name:Fajrin Email:fajrin@example.com JobPosition:Software engineer Salaries:2625 Payroll:2 week Currency:NZD}
+2025/08/30 11:17:29 Successfully sent salary to Fajrin
+2025/08/30 11:18:52 Server running on http://localhost:8080
+
+2025/08/30 11:19:28 Server running on http://localhost:8080
+2025/08/30 11:19:32 Received Worker: {ID:1 Name:Fajrin Email:fajrin@example.com JobPosition:Software engineer Salaries:2625 Payroll:2 week Currency:NZD}
+2025/08/30 11:19:32 Successfully sent salary to Fajrin
+
+2025/08/30 11:20:26 Server running on http://localhost:8080
+2025/08/30 11:20:30 Raw JSON request: {"id":1,"name":"Fajrin","email":"fajrin@example.com","job_position":"Software engineer","salaries":2625,"currency":"NZD","payroll":"2 week"}
+2025/08/30 11:20:30 Received Worker: {ID:1 Name:Fajrin Email:fajrin@example.com JobPosition:Software engineer Salaries:2625 Payroll:2 week Currency:NZD}
+2025/08/30 11:20:30 Successfully sent salary to Fajrin

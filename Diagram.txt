@@ -1,0 +1,24 @@
+Opsi pakai simbol
+
+✅ = DONE (sudah selesai)
+
+⏳ = INPROGRESS (sedang dikerjakan)
+
+❌ = CANCELED / TIDAK dikerjakan
+
+💤 = YET (belum mulai)
+
+⚠️ = BLOCKED (ada hambatan)
+
+Task List :
+1) Create Input Data Worker
+   [💤] id
+   [💤] name
+   [💤] email
+   [💤] job_position
+   [💤] salaries
+
+2) Save to Database
+   [💤] setup DB
+   [💤] connection test
+   [💤] input to DB test

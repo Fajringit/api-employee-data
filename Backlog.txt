@@ -1,0 +1,39 @@
+[V.1] Core Features
+
+V.1.0 → Input Data Worker
+
+V.1.1 → Save to Database
+
+V.1.2 → Count Basic Salaries
+
+V.1.3 → Data Validation (email, salary, etc.)
+
+V.1.4 → Error Handling & Logging
+
+V.1.5 → Basic Testing
+
+[V.2] Output
+
+V.2.0 → Convert to PDF
+
+V.2.1 → File Naming Convention (slip_<id>_<date>.pdf)
+
+V.2.2 → Watermark / Branding
+
+[V.3] Integration
+
+V.3.0 → API Integration
+
+V.3.1 → Authentication (Token/JWT)
+
+V.3.2 → API Documentation (Swagger/Postman)
+
+[V.4] Visualization
+
+V.4.0 → Dashboard
+
+V.4.1 → Search & Filter
+
+V.4.2 → Role Management
+
+V.4.3 → Error Monitoring / Health Check
